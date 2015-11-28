@@ -1,2 +1,2 @@
-# AlzarraNet
-AI Framework for Alzarra objects based on AlzarraORG
+# AZRN
+AI Framework for AZRA objects 
